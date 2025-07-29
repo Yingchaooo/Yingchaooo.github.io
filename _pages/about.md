@@ -33,14 +33,14 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yingchao Zhang**, Cheng Liu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=OQk6skcAAAAJ&citation_for_view=OQk6skcAAAAJ:W7OEmFMy1HYC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **TITS 2024**
 
 # 📖 Educations
 - *2023.09 - now*, Doctor of Philosophy, City University of Hong Kong, Hong Kong SAR, China.
@@ -66,7 +66,15 @@ My research interest includes neural machine translation and computer vision. I 
 - *2025.06*, Intelligent Infrastructure Monitoring: Applications of VLMs and LLMs in Structural Health Monitoring, 2nd Olympiad in Engineering Science (OES2025). Stavanger, Norway. 
 - *2025.01*, Few-shot Crack Image Classification Using CLIP Based on Bayesian Optimization, The 1st International Workshop on Bayesian Approach in Civil Engineering (IWOBA 2025). Hong Kong SAR, China.
 - *2021.11*, Road Surface Disease Detection Based on IMU Sensors, International Conference on Intelligent Traﬃc Systems and Smart City (ITSSC2021). Zhengzhou, China.
-- *2021.10*, High-Precision and High-Eﬃciency Detection of Road Surface Defects Based on Inertial Navigation System, The 10th Road and Airport Engineering Research Youth Forum. Jinan, China. 
+- *2021.10*, High-Precision and High-Eﬃciency Detection of Road Surface Defects Based on Inertial Navigation System, The 10th Road and Airport Engineering Research Youth Forum. Jinan, China.
+
+# 🧐 Professional Service
+Reviewer for Advanced Engineering Informatics, Automation in Construction, IEEE Transactions on Intelligent Transportation Systems, IEEE Transactions on Instrumentation and Measurement, Construction and Building Materials, Expert Systems with Applications, Engineering Structures, Nondestructive Testing and Evaluation, Journal of Computing in Civil Engineering, Measurement, Case Studies in Construction Materials.
+
+# 📚 Teaching Assistant
+- *2025.07-08*, SYE6308, Statistical Learning in Manufacturing Quality Control, Dr. Yuquan MENG.
+- *2025.02-05*, SYE6009, Project Management, Dr. Ken YAU.
+- *2024.09-11*, SYE6043, Quality and Reliability Engineering, Prof. Hanxiong LI. 
 
 # 💻 Internships
 - *2019.07 - 2019.08*, [Shandong Hi-Speed Group](https://www.sdhg.com.hk/en/), Jinan, China.

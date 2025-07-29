@@ -36,6 +36,8 @@ Journal Paper
 8. Yipeng Liu, Chuan Wang, **Yingchao Zhang**, Xiteng Sun, Cong Du, Dongdong Xie, Yuan Tian. [A non-destructive automatic pavement damage detection scheme based on end-to-end neural networks with multi-level attention mechanism](https://www.sciencedirect.com/science/article/pii/S0952197625012473), *Engineering Applications of Artificial Intelligence*, 156, 2025.
 9. Xiuguang Song, **Yingchao Zhang**, Peizhi Zhuang, He Yang, Haifeng Zhang, Juan Wang. [Optimal calculation method of pavement shakedown limit based on genetic algorithm](http://gxbwk.njournal.sdu.edu.cn/CN/10.6040/j.issn.1672-3961.0.2021.153), *Journal of Shandong University (Engineering Science)*, 51(5), 1-7, 2021.
 10. Peizhi Zhuang, **Yingchao Zhang**, Xiuguang Song, He Yang, Zhicheng Guo, Yan Hu. [Modified calculation method of shaft friction for driven pile considering particle size eﬀect](http://gxbwk.njournal.sdu.edu.cn/CN/abstract/abstract2065.shtml), *Journal of Shandong University (Engineering Science)*, 51(5), 8-15, 2021.
+
+Conference Paper
 11. **Yingchao Zhang**, Cheng Liu. [Intelligent Infrastructure Monitoring: Applications of VLMs and LLMs in Structural Health Monitoring](https://indico.uis.no/event/50/papers/1607/files/241-OES2025.pdf), *2nd Olympiad in Engineering Science (OES2025)*, 2025.
 12. **Yingchao Zhang**, Cheng Liu. [Few-shot crack image classification using clip based on bayesian optimization](https://arxiv.org/pdf/2503.00376), *The 1st International Workshop on Bayesian Approach in Civil Engineering (IWOBA 2025)*, 2025.
 13. **Yingchao Zhang**, Zhaoyou Ma, Wen Han, Tao Li, Fujin Hou, Xiuguang Song. [Intelligent traffic detection with millimeter-wave radar and camera](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12165/2627800/Intelligent-traffic-detection-with-millimeter-wave-radar-and-camera/10.1117/12.2627800.short), *International Conference on Intelligent Traffic Systems and Smart City (ITSSC 2021)*, 2021.
@@ -81,9 +83,9 @@ Reviewer
 - Case Studies in Construction Materials
 
 # 📚 Teaching Assistant
-- *2025.07-08*, SYE6308, Statistical Learning in Manufacturing Quality Control, Dr. Yuquan MENG.
-- *2025.02-05*, SYE6009, Project Management, Dr. Ken YAU.
-- *2024.09-11*, SYE6043, Quality and Reliability Engineering, Prof. Hanxiong LI. 
+- *2025.07-2025.08*, SYE6308, Statistical Learning in Manufacturing Quality Control, Dr. Yuquan MENG.
+- *2025.02-2025.05*, SYE6009, Project Management, Dr. Ken YAU.
+- *2024.09-2024.11*, SYE6043, Quality and Reliability Engineering, Prof. Hanxiong LI. 
 
 # 💻 Internships
 - *2019.07 - 2019.08*, [Shandong Hi-Speed Group](https://www.sdhg.com.hk/en/), Jinan, China.

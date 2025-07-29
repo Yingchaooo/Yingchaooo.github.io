@@ -19,7 +19,7 @@ redirect_from:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=OQk6skcAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=OQk6skcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
@@ -48,12 +48,25 @@ My research interest includes neural machine translation and computer vision. I 
 - *2016.09 - 2020.06*, Bachelor of Engineering, Shandong University, Jinan, China.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09*, Research Tuition Scholarship, City University of Hong Kong. 
+- *2024.09*, Outstanding Academic Performance Award for Research Degree Students, City University of Hong Kong.
+- *2023.09*, Postgraduate Scholarships, City University of Hong Kong.
+- *2023.06*, Outstanding Graduates of Shandong Province, Department of Human Resources and Social Security of Shandong Province.
+- *2023.06*, Outstanding Graduates of Shandong University, Shandong University.
+- *2022.10*, Outstanding Graduate Student,Shandong University.
+- *2022.10*, The Second Prize of Postgraduate Scholarship, Shandong University.
+- *2021.10*, Outstanding Graduate Student,Shandong University.
+- *2021.10*, The First Prize of Postgraduate Scholarship, Shandong University.
+- *2020.10*, The First Prize of New Graduate Students Scholarship,Shandong University.
+- *2020.06*, Outstanding Graduates of Shandong University, Shandong University.
+- *2019.10*, The Third Prize of Undergraduate Scholarship, Shandong University.
+- *2018.10*, The Third Prize of Undergraduate Scholarship, Shandong University.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2025.06*, Intelligent Infrastructure Monitoring: Applications of VLMs and LLMs in Structural Health Monitoring, 2nd Olympiad in Engineering Science (OES2025). Stavanger, Norway. 
+- *2025.01*, Few-shot Crack Image Classification Using CLIP Based on Bayesian Optimization, The 1st International Workshop on Bayesian Approach in Civil Engineering (IWOBA 2025). Hong Kong SAR, China.
+- *2021.11*, Road Surface Disease Detection Based on IMU Sensors, International Conference on Intelligent Traﬃc Systems and Smart City (ITSSC2021). Zhengzhou, China.
+- *2021.10*, High-Precision and High-Eﬃciency Detection of Road Surface Defects Based on Inertial Navigation System, The 10th Road and Airport Engineering Research Youth Forum. Jinan, China. 
 
 # 💻 Internships
 - *2019.07 - 2019.08*, [Shandong Hi-Speed Group](https://www.sdhg.com.hk/en/), Jinan, China.

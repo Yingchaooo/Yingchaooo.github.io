@@ -17,19 +17,28 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=OQk6skcAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=OQk6skcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+I am a Ph.D. candidate in Systems Engineering at the City University of Hong Kong. My research interests lie in transportation infrastructure, with a focus on pavement damage detection based on Vision Language Models and Computer Vision. Over the course of my academic journey, I have authored 10 journal articles and 3 conference paper with total <a href='https://scholar.google.com/citations?user=OQk6skcAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=OQk6skcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>), which have been published in prestigious venues such as Comput.-Aided Civil Infrastruct. Eng., Autom. Constr., and IEEE Trans. Intell. Transp. Syst. and so on. 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.07*: &nbsp;🎉🎉 My latest paper about VLM was accepeted by *Automation in Construction*. 
+- *2025.02*: &nbsp;🎉🎉 My paper on *Computer‐Aided Civil and Infrastructure Engineering* was selected as the cover article. 
 
 # 📝 Publications 
 
-1. **Yingchao Zhang**, Cheng Liu. [Real-time pavement damage detection with damage shape adaptation](https://ieeexplore.ieee.org/abstract/document/10570403?casa_token=st3aKsbhcgMAAAAA:InvhjWBrEbj1HPNYzKMeoB_M5lPZNh4scdqXIoHparE9QUhVWQyWfeAzKykNDqPivnIkaA1gbw), IEEE Transactions on Intelligent Transportation Systems, 25(11),18954-18963.
-
+Journal Paper
+1. **Yingchao Zhang**, Cheng Liu. [Vision-enhanced multi-modal learning framework for non-destructive pavement damage detection](https://www.sciencedirect.com/science/article/pii/S0926580525004297), *Automation in Construction*, 177, 2025.
+2. **Yingchao Zhang**, Cheng Liu. [Generative adversarial network based on domain adaptation for crack segmentation in shadow environments](https://onlinelibrary.wiley.com/doi/full/10.1111/mice.13451), *Computer‐Aided Civil and Infrastructure Engineering*, early access, 2025.
+3. **Yingchao Zhang**, Cheng Liu. [Crack segmentation using discrete cosine transform in shadow environments](https://www.sciencedirect.com/science/article/pii/S0926580524003820), *Automation in Construction*, 166, 2024.
+4. **Yingchao Zhang**, Cheng Liu. [Real-time pavement damage detection with damage shape adaptation](https://ieeexplore.ieee.org/abstract/document/10570403?casa_token=st3aKsbhcgMAAAAA:InvhjWBrEbj1HPNYzKMeoB_M5lPZNh4scdqXIoHparE9QUhVWQyWfeAzKykNDqPivnIkaA1gbw), *IEEE Transactions on Intelligent Transportation Systems*, 25(11),18954-18963, 2024.
+5. **Yingchao Zhang**, Cheng Liu. [Network for robust and high-accuracy pavement crack segmentation](https://www.sciencedirect.com/science/article/pii/S0926580524001110), *Automation in Construction*, 162, 2024.
+6. **Yingchao Zhang**, Zhiwu Zuo, Xiaobin Xu, Jianqing Wu, Jianguo Zhu, Hongbo Zhang, Jiewen Wang, Yuan Tian. [Road damage detection using UAV images based on multi-level attention mechanism](https://www.sciencedirect.com/science/article/pii/S0926580522004836), *Automation in Construction*, 144, 2022.
+7. **Yingchao Zhang**, Zhaoyou Ma, Xiuguang Song, Jianqing Wu, Shijie Liu, Xiguang Chen, Xinming Guo. [Road surface defects detection based on IMU sensor](https://ieeexplore.ieee.org/abstract/document/9648346), *IEEE Sensors Journal*, 22(3), 2711-2721，2021.
+8. Yipeng Liu, Chuan Wang, **Yingchao Zhang**, Xiteng Sun, Cong Du, Dongdong Xie, Yuan Tian. [A non-destructive automatic pavement damage detection scheme based on end-to-end neural networks with multi-level attention mechanism](https://www.sciencedirect.com/science/article/pii/S0952197625012473), *Engineering Applications of Artificial Intelligence*, 156, 2025.
+9. Xiuguang Song, **Yingchao Zhang**, Peizhi Zhuang, He Yang, Haifeng Zhang, Juan Wang. [Optimal calculation method of pavement shakedown limit based on genetic algorithm](http://gxbwk.njournal.sdu.edu.cn/CN/10.6040/j.issn.1672-3961.0.2021.153), *Journal of Shandong University (Engineering Science)*, 51(5), 1-7, 2021.
+10. Peizhi Zhuang, **Yingchao Zhang**, Xiuguang Song, He Yang, Zhicheng Guo, Yan Hu. [Modified calculation method of shaft friction for driven pile considering particle size eﬀect](http://gxbwk.njournal.sdu.edu.cn/CN/abstract/abstract2065.shtml), *Journal of Shandong University (Engineering Science)*, 51(5), 8-15, 2021.
+11. **Yingchao Zhang**, Cheng Liu. [Intelligent Infrastructure Monitoring: Applications of VLMs and LLMs in Structural Health Monitoring](https://indico.uis.no/event/50/papers/1607/files/241-OES2025.pdf), *2nd Olympiad in Engineering Science (OES2025)*, 2025.
+12. **Yingchao Zhang**, Cheng Liu. [Few-shot crack image classification using clip based on bayesian optimization](https://arxiv.org/pdf/2503.00376), *The 1st International Workshop on Bayesian Approach in Civil Engineering (IWOBA 2025)*, 2025.
+13. **Yingchao Zhang**, Zhaoyou Ma, Wen Han, Tao Li, Fujin Hou, Xiuguang Song. [Intelligent traffic detection with millimeter-wave radar and camera](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12165/2627800/Intelligent-traffic-detection-with-millimeter-wave-radar-and-camera/10.1117/12.2627800.short), *International Conference on Intelligent Traffic Systems and Smart City (ITSSC 2021)*, 2021.
 
 # 📖 Educations
 - *2023.09 - now*, Doctor of Philosophy, City University of Hong Kong, Hong Kong SAR, China.

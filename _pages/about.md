@@ -28,18 +28,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
+1. **Yingchao Zhang**, Cheng Liu. [Real-time pavement damage detection with damage shape adaptation](https://ieeexplore.ieee.org/abstract/document/10570403?casa_token=st3aKsbhcgMAAAAA:InvhjWBrEbj1HPNYzKMeoB_M5lPZNh4scdqXIoHparE9QUhVWQyWfeAzKykNDqPivnIkaA1gbw), IEEE Transactions on Intelligent Transportation Systems, 25(11),18954-18963.
 
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-1. **Yingchao Zhang**, Cheng Liu
-
-[**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=OQk6skcAAAAJ&citation_for_view=OQk6skcAAAAJ:W7OEmFMy1HYC) <strong><span class='show_paper_citations' data='OQk6skcAAAAJ:W7OEmFMy1HYC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **TITS 2024**
 
 # 📖 Educations
 - *2023.09 - now*, Doctor of Philosophy, City University of Hong Kong, Hong Kong SAR, China.

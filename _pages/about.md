@@ -67,22 +67,18 @@ Journal Paper
 - *2021.10*, High-Precision and High-Eﬃciency Detection of Road Surface Defects Based on Inertial Navigation System, The 10th Road and Airport Engineering Research Youth Forum. Jinan, China.
 
 # 🧐 Professional Service
-<table>
-  <tr>
-    <td style="border: none; padding: 2px 8px 2px 0;">Reviewer of</td>
-    <td style="border: none; padding: 2px 0;">Advanced Engineering Informatics</td>
-  </tr>
-  <tr>
-    <td style="border: none;"></td>
-    <td style="border: none; padding: 2px 0;">Automation in Construction</td>
-  </tr>
-  <tr>
-    <td style="border: none;"></td>
-    <td style="border: none; padding: 2px 0;">IEEE Transactions on Intelligent Transportation Systems</td>
-  </tr>
-</table>
-
-Reviewer for , , , IEEE Transactions on Instrumentation and Measurement, Construction and Building Materials, Expert Systems with Applications, Engineering Structures, Nondestructive Testing and Evaluation, Journal of Computing in Civil Engineering, Measurement, Case Studies in Construction Materials.
+Reviewer
+- Advanced Engineering Informatics
+- Automation in Construction
+- IEEE Transactions on Intelligent Transportation Systems
+- IEEE Transactions on Instrumentation and Measurement
+- Construction and Building Materials
+- Expert Systems with Applications
+- Engineering Structures
+- Nondestructive Testing and Evaluation
+- Journal of Computing in Civil Engineering
+- Measurement
+- Case Studies in Construction Materials
 
 # 📚 Teaching Assistant
 - *2025.07-08*, SYE6308, Statistical Learning in Manufacturing Quality Control, Dr. Yuquan MENG.

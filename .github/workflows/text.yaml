@@ -1,0 +1,13 @@
+# 这是一个用于测试的简单工作流
+name: Hello World Test
+
+on:
+  # 允许手动触发
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Print a message
+        run: echo "Hello World! The test workflow is running!"

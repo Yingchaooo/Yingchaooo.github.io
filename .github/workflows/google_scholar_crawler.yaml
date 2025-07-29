@@ -1,12 +1,17 @@
 name: Get Citation Data
 
-on: 
+on:
+  # 允许您从 Actions 页面手动运行此工作流
+  workflow_dispatch:
+
+  # 按计划运行
+  schedule:
+    - cron: '0 8 * * *'
+
+  # 当您推送到 main 分支时运行
   push:
     branches:
       - main
-  page_build: 
-  schedule:
-    - cron:  '0 8 * * *'
 
 jobs:
   build:

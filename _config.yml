@@ -19,7 +19,7 @@ google_site_verification :  # get google_site_verification from https://search.g
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
-# Site Author
+# Site Author 
 author:
   name             : "Yingchao Zhang"
   avatar           : "images/yingchaohk.png"

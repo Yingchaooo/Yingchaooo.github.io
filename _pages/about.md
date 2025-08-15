@@ -83,6 +83,7 @@ Reviewer
 - Case Studies in Construction Materials
 
 # 📚 Teaching Assistant
+- *2025.09-2025.11*, SYE6043, Quality and Reliability Engineering, Prof. Hanxiong LI. 
 - *2025.07-2025.08*, SYE6308, Statistical Learning in Manufacturing Quality Control, Dr. Yuquan MENG.
 - *2025.02-2025.05*, SYE6009, Project Management, Dr. Ken YAU.
 - *2024.09-2024.11*, SYE6043, Quality and Reliability Engineering, Prof. Hanxiong LI. 

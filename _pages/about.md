@@ -20,6 +20,7 @@ redirect_from:
 I am a Ph.D. candidate in Systems Engineering at the City University of Hong Kong. My research interests lie in transportation infrastructure, with a focus on pavement damage detection based on Vision Language Models and Computer Vision. Over the course of my academic journey, I have published 10 journal articles and 3 conference paper with total 219 citations, which have been published in prestigious venues such as *Comput.-Aided Civil Infrastruct. Eng.*, *Autom. Constr.*, and *IEEE Trans. Intell. Transp. Syst.* and so on. 
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 I was awarded the _Research Tuition Scholarship_ and _Outstanding Academic Performance Award for Research Degree Students_.
 - *2025.07*: &nbsp;🎉🎉 My latest paper about VLM was accepeted by *Automation in Construction*. 
 - *2025.02*: &nbsp;🎉🎉 My paper published on *Computer‐Aided Civil and Infrastructure Engineering* was selected as the cover article. 
 
@@ -48,6 +49,8 @@ Conference Paper
 - *2016.09 - 2020.06*, Bachelor of Engineering, Shandong University, Jinan, China.
 
 # 🎖 Honors and Awards
+- *2025.09*, Research Tuition Scholarship, City University of Hong Kong. 
+- *2025.09*, Outstanding Academic Performance Award for Research Degree Students, City University of Hong Kong.
 - *2024.09*, Research Tuition Scholarship, City University of Hong Kong. 
 - *2024.09*, Outstanding Academic Performance Award for Research Degree Students, City University of Hong Kong.
 - *2023.09*, Postgraduate Scholarships, City University of Hong Kong.
@@ -72,6 +75,7 @@ Conference Paper
 Reviewer
 - Advanced Engineering Informatics
 - Automation in Construction
+- International Journal of Applied Earth Observation and Geoinformation 
 - IEEE Transactions on Intelligent Transportation Systems
 - IEEE Transactions on Instrumentation and Measurement
 - Construction and Building Materials

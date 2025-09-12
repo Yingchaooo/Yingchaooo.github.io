@@ -17,7 +17,7 @@ redirect_from:
  
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate in Systems Engineering at the City University of Hong Kong. My research interests lie in transportation infrastructure, with a focus on pavement damage detection based on Vision Language Models and Computer Vision. Over the course of my academic journey, I have published 10 journal articles and 3 conference paper with total 227 citations, which have been published in prestigious venues such as *Comput.-Aided Civil Infrastruct. Eng.*, *Autom. Constr.*, and *IEEE Trans. Intell. Transp. Syst.* and so on. 
+I am a Ph.D. candidate in Systems Engineering at the City University of Hong Kong. My research interests lie in transportation infrastructure, with a focus on pavement damage detection based on Vision Language Models and Computer Vision. Over the course of my academic journey, I have published 10 journal articles and 3 conference paper with total 229 citations, which have been published in prestigious venues such as *Comput.-Aided Civil Infrastruct. Eng.*, *Autom. Constr.*, and *IEEE Trans. Intell. Transp. Syst.* and so on. 
 
 # 🔥 News
 - *2025.08*: &nbsp;🎉🎉 I was awarded the _Research Tuition Scholarship_ and _Outstanding Academic Performance Award for Research Degree Students_.

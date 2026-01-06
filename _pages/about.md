@@ -44,10 +44,19 @@ Conference Paper
 12. **Yingchao Zhang**, Cheng Liu. [Few-shot crack image classification using clip based on bayesian optimization](https://arxiv.org/pdf/2503.00376), *The 1st International Workshop on Bayesian Approach in Civil Engineering (IWOBA 2025)*, 2025.
 13. **Yingchao Zhang**, Zhaoyou Ma, Wen Han, Tao Li, Fujin Hou, Xiuguang Song. [Intelligent traffic detection with millimeter-wave radar and camera](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12165/2627800/Intelligent-traffic-detection-with-millimeter-wave-radar-and-camera/10.1117/12.2627800.short), *International Conference on Intelligent Traffic Systems and Smart City (ITSSC 2021)*, 2021.
 
+Patents
+1. Fujin Hou, **Yingchao Zhang**, et al. A roadside LIDAR-based method for classifying targets in transit. Chinese Invention Patent. No: ZL 2021 1 0582129.8
+2. Jianqing Wu, Zhaoyou Ma, **Yingchao Zhang**, et al. Method and apparatus for point cloud registration of roadside LiDAR. Chinese Invention Patent. No: ZL 2021 1 1202112.1
+3. Xiuguang Song, **Yingchao Zhang**, et al. Intelligent pavement disease identification and repair method, system, equipment and medium based on convolutional neural network and 3d printing repair technology. South Africa Invention Patent. No. 2021/09921
+
+Book
+1. Cheng Liu, **Yingchao Zhang**, Xuebing Xu, Yan Chen. Computer Vision and AI in Structural Health Monitoring and Structural Engineering. Elsevier, 2026. (In Press)
+
 # 📖 Educations
 - *2023.09 - now*, Doctor of Philosophy, City University of Hong Kong, Hong Kong SAR, China.
 - *2020.09 - 2023.06*, Master of Engineering, Shandong University, Jinan, China. 
 - *2016.09 - 2020.06*, Bachelor of Engineering, Shandong University, Jinan, China.
+- 
 
 # 🎖 Honors and Awards
 - *2025.09*, Research Tuition Scholarship, City University of Hong Kong. 

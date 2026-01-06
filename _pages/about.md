@@ -56,7 +56,6 @@ Book
 - *2023.09 - now*, Doctor of Philosophy, City University of Hong Kong, Hong Kong SAR, China.
 - *2020.09 - 2023.06*, Master of Engineering, Shandong University, Jinan, China. 
 - *2016.09 - 2020.06*, Bachelor of Engineering, Shandong University, Jinan, China.
-- 
 
 # 🎖 Honors and Awards
 - *2025.09*, Research Tuition Scholarship, City University of Hong Kong. 

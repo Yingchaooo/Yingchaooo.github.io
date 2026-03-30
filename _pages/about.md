@@ -17,12 +17,10 @@ redirect_from:
  
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate in Systems Engineering at the City University of Hong Kong. My research interests lie in transportation infrastructure, with a focus on pavement damage detection based on Vision Language Models and Computer Vision. Over the course of my academic journey, I have published 11 journal articles and 3 conference paper with total 336 citations, which have been published in prestigious venues such as *Comput.-Aided Civil Infrastruct. Eng.*, *Autom. Constr.*, and *IEEE Trans. Intell. Transp. Syst.* and so on. 
+I am a Ph.D. candidate in Systems Engineering at the City University of Hong Kong. My research interests lie in transportation infrastructure, with a focus on pavement damage detection based on Vision Language Models and Computer Vision. Over the course of my academic journey, I have published 12 journal articles and 3 conference paper with total 356 citations, which have been published in prestigious venues such as *Comput.-Aided Civil Infrastruct. Eng.*, *Autom. Constr.*, and *IEEE Trans. Intell. Transp. Syst.* and so on. 
 
 # 🔥 News
 - *2025.08*: &nbsp;🎉🎉 I was awarded the _Research Tuition Scholarship_ and _Outstanding Academic Performance Award for Research Degree Students_.
-- *2025.07*: &nbsp;🎉🎉 My latest paper about VLM was accepeted by *Automation in Construction*. 
-- *2025.02*: &nbsp;🎉🎉 My paper published on *Computer‐Aided Civil and Infrastructure Engineering* was selected as the cover article. 
 
 # 📝 Publications 
 
@@ -35,9 +33,10 @@ Journal Paper
 6. **Yingchao Zhang**, Zhiwu Zuo, Xiaobin Xu, Jianqing Wu, Jianguo Zhu, Hongbo Zhang, Jiewen Wang, Yuan Tian. [Road damage detection using UAV images based on multi-level attention mechanism](https://www.sciencedirect.com/science/article/pii/S0926580522004836), *Automation in Construction*, 144, 2022.
 7. **Yingchao Zhang**, Zhaoyou Ma, Xiuguang Song, Jianqing Wu, Shijie Liu, Xiguang Chen, Xinming Guo. [Road surface defects detection based on IMU sensor](https://ieeexplore.ieee.org/abstract/document/9648346), *IEEE Sensors Journal*, 22(3), 2711-2721，2021.
 8. Bin Lv, Yu Tian, **Yingchao Zhang**, Shuo Zhang, Qixiang Chen, Wan Yang, Jianqing Wu. [HyCrackNet: A Multi-sensor Based Framework for Accurate Pavement Crack Segmentation](https://ieeexplore.ieee.org/document/11194075), *IEEE Sensors Journal*, early access, 2025. (Corresponding Author)
-9. Yipeng Liu, Chuan Wang, **Yingchao Zhang**, Xiteng Sun, Cong Du, Dongdong Xie, Yuan Tian. [A non-destructive automatic pavement damage detection scheme based on end-to-end neural networks with multi-level attention mechanism](https://www.sciencedirect.com/science/article/pii/S0952197625012473), *Engineering Applications of Artificial Intelligence*, 156, 2025.
-10. Xiuguang Song, **Yingchao Zhang**, Peizhi Zhuang, He Yang, Haifeng Zhang, Juan Wang. [Optimal calculation method of pavement shakedown limit based on genetic algorithm](http://gxbwk.njournal.sdu.edu.cn/CN/10.6040/j.issn.1672-3961.0.2021.153), *Journal of Shandong University (Engineering Science)*, 51(5), 1-7, 2021.
-11. Peizhi Zhuang, **Yingchao Zhang**, Xiuguang Song, He Yang, Zhicheng Guo, Yan Hu. [Modified calculation method of shaft friction for driven pile considering particle size eﬀect](http://gxbwk.njournal.sdu.edu.cn/CN/abstract/abstract2065.shtml), *Journal of Shandong University (Engineering Science)*, 51(5), 8-15, 2021.
+9. Yu Tian, Bin Lv, **Yingchao Zhang**, Jianzhu Wang, Ziyi Zhang, Benhao Xie, Jianqing Wu. UAV-Assisted Shadow Removal Framework for Accurate Pavement Crack Segmentation under Complex Illumination Conditions, *IEEE Sensors Journal*, accepted, 2026. (Corresponding Author)
+10. Yipeng Liu, Chuan Wang, **Yingchao Zhang**, Xiteng Sun, Cong Du, Dongdong Xie, Yuan Tian. [A non-destructive automatic pavement damage detection scheme based on end-to-end neural networks with multi-level attention mechanism](https://www.sciencedirect.com/science/article/pii/S0952197625012473), *Engineering Applications of Artificial Intelligence*, 156, 2025.
+11. Xiuguang Song, **Yingchao Zhang**, Peizhi Zhuang, He Yang, Haifeng Zhang, Juan Wang. [Optimal calculation method of pavement shakedown limit based on genetic algorithm](http://gxbwk.njournal.sdu.edu.cn/CN/10.6040/j.issn.1672-3961.0.2021.153), *Journal of Shandong University (Engineering Science)*, 51(5), 1-7, 2021.
+12. Peizhi Zhuang, **Yingchao Zhang**, Xiuguang Song, He Yang, Zhicheng Guo, Yan Hu. [Modified calculation method of shaft friction for driven pile considering particle size eﬀect](http://gxbwk.njournal.sdu.edu.cn/CN/abstract/abstract2065.shtml), *Journal of Shandong University (Engineering Science)*, 51(5), 8-15, 2021.
 
 Conference Paper
 11. **Yingchao Zhang**, Cheng Liu. [Intelligent Infrastructure Monitoring: Applications of VLMs and LLMs in Structural Health Monitoring](https://indico.uis.no/event/50/papers/1607/files/241-OES2025.pdf), *2nd Olympiad in Engineering Science (OES2025)*, 2025.

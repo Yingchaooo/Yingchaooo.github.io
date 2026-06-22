@@ -14,10 +14,17 @@ body {
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
+  background: #FAF8F5;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
     overflow: hidden;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #1D1914;
   }
 }
 

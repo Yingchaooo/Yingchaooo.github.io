@@ -1,0 +1,237 @@
+---
+layout: null
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ site.data.home.profile.name }}</title>
+    <meta name="description" content="{{ site.description }}">
+    <meta name="theme-color" content="#FAF8F5">
+    <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tabler-icons/3.28.1/tabler-icons.min.css">
+    <link rel="stylesheet" href="assets/css/site.css">
+  </head>
+  <body>
+    {% assign home = site.data.home %}
+    <header class="site-nav">
+      <a class="site-nav__brand" href="#top">{{ home.profile.name }}</a>
+      <nav aria-label="Primary navigation">
+        <a href="#news">News</a>
+        <a href="#publications">Publications</a>
+        <a href="#education">Education</a>
+        <a href="#service">Service</a>
+      </nav>
+    </header>
+
+    <main class="page-shell" id="top">
+      <section class="hero">
+        <img class="hero__avatar" src="{{ home.profile.avatar }}" alt="{{ home.profile.name }}">
+        <div class="hero__body">
+          <p class="eyebrow">{{ home.profile.kicker }}</p>
+          <h1>{{ home.profile.name }}</h1>
+          <p class="hero__org">{{ home.profile.organization }}</p>
+          <p class="hero__meta">{{ home.profile.role }} · {{ home.profile.location }}</p>
+          <div class="pills" aria-label="Research keywords">
+            {% for keyword in home.profile.keywords %}
+              <span>{{ keyword }}</span>
+            {% endfor %}
+          </div>
+          <div class="profile-links" aria-label="Profile links">
+            {% for link in home.profile.links %}
+              <a href="{{ link.url }}"><i class="ti {{ link.icon }}"></i>{{ link.label }}</a>
+            {% endfor %}
+          </div>
+        </div>
+      </section>
+
+      <section class="intro" aria-label="About me">
+        {% for paragraph in home.intro %}
+          <p>{{ paragraph }}</p>
+        {% endfor %}
+      </section>
+
+      <section class="stats" aria-label="Research highlights">
+        {% for stat in home.stats %}
+          <div class="stat-card">
+            <strong>{{ stat.value }}</strong>
+            <span>{{ stat.label }}</span>
+          </div>
+        {% endfor %}
+      </section>
+
+      <section class="section" id="news">
+        <div class="section__head">
+          <h2>News</h2>
+        </div>
+        <div class="timeline-list">
+          {% for item in home.news %}
+            <article class="list-card">
+              <span class="date">{{ item.date }}</span>
+              <p>{{ item.text }}</p>
+            </article>
+          {% endfor %}
+        </div>
+      </section>
+
+      <section class="section" id="research">
+        <div class="section__head">
+          <h2>Research focus</h2>
+        </div>
+        <div class="focus-grid">
+          {% for item in home.research_focus %}
+            <article class="focus-card focus-card--{{ item.tone }}">
+              <i class="ti {{ item.icon }}"></i>
+              <h3>{{ item.title }}</h3>
+              <p>{{ item.description }}</p>
+            </article>
+          {% endfor %}
+        </div>
+      </section>
+
+      <section class="section" id="selected-publications">
+        <div class="section__head">
+          <h2>Selected publications</h2>
+        </div>
+        <div class="paper-list">
+          {% for paper in home.selected_publications %}
+            <a class="paper-card" href="{{ paper.url }}">
+              <strong>{{ paper.title }}</strong>
+              <span>{{ paper.venue }}</span>
+            </a>
+          {% endfor %}
+        </div>
+      </section>
+
+      <section class="section" id="publications">
+        <div class="section__head">
+          <h2>Publications</h2>
+        </div>
+        <h3 class="subhead">Journal articles</h3>
+        <div class="paper-list">
+          {% for paper in home.journal_articles %}
+            {% if paper.url %}
+              <a class="paper-card" href="{{ paper.url }}">
+                <strong>{{ paper.title }}</strong>
+                <span>{{ paper.venue }}</span>
+              </a>
+            {% else %}
+              <article class="paper-card">
+                <strong>{{ paper.title }}</strong>
+                <span>{{ paper.venue }}</span>
+              </article>
+            {% endif %}
+          {% endfor %}
+        </div>
+
+        <h3 class="subhead">Conference papers</h3>
+        <div class="paper-list">
+          {% for paper in home.conference_papers %}
+            <a class="paper-card" href="{{ paper.url }}">
+              <strong>{{ paper.title }}</strong>
+              <span>{{ paper.venue }}</span>
+            </a>
+          {% endfor %}
+        </div>
+      </section>
+
+      <section class="section" id="patents">
+        <div class="section__head">
+          <h2>Patents and book</h2>
+        </div>
+        <div class="timeline-list">
+          {% for item in home.patents_and_book %}
+            <article class="list-card">
+              <p>{{ item.text }}</p>
+            </article>
+          {% endfor %}
+        </div>
+      </section>
+
+      <section class="section" id="education">
+        <div class="section__head">
+          <h2>Education</h2>
+        </div>
+        <div class="timeline-list">
+          {% for item in home.education %}
+            <article class="list-card">
+              <span class="date">{{ item.date }}</span>
+              <p>{{ item.text }}</p>
+            </article>
+          {% endfor %}
+        </div>
+      </section>
+
+      <section class="section" id="honors">
+        <div class="section__head">
+          <h2>Honors and awards</h2>
+        </div>
+        <div class="timeline-list timeline-list--two">
+          {% for item in home.honors %}
+            <article class="list-card">
+              <span class="date">{{ item.date }}</span>
+              <p>{{ item.text }}</p>
+            </article>
+          {% endfor %}
+        </div>
+      </section>
+
+      <section class="section" id="talks">
+        <div class="section__head">
+          <h2>Invited talks</h2>
+        </div>
+        <div class="timeline-list">
+          {% for item in home.talks %}
+            <article class="list-card">
+              <span class="date">{{ item.date }}</span>
+              <p>{{ item.text }}</p>
+            </article>
+          {% endfor %}
+        </div>
+      </section>
+
+      <section class="section" id="service">
+        <div class="section__head">
+          <h2>Professional service</h2>
+        </div>
+        <p class="section-copy">{{ home.service }}</p>
+      </section>
+
+      <section class="section" id="teaching">
+        <div class="section__head">
+          <h2>Teaching assistant</h2>
+        </div>
+        <div class="timeline-list">
+          {% for item in home.teaching %}
+            <article class="list-card">
+              <span class="date">{{ item.date }}</span>
+              <p>{{ item.text }}</p>
+            </article>
+          {% endfor %}
+        </div>
+      </section>
+
+      <section class="section" id="internships">
+        <div class="section__head">
+          <h2>Internships</h2>
+        </div>
+        <div class="timeline-list">
+          {% for item in home.internships %}
+            <article class="list-card">
+              <span class="date">{{ item.date }}</span>
+              <p>
+                {% if item.url %}
+                  <a href="{{ item.url }}">{{ item.text }}</a>
+                {% else %}
+                  {{ item.text }}
+                {% endif %}
+              </p>
+            </article>
+          {% endfor %}
+        </div>
+      </section>
+    </main>
+  </body>
+</html>

@@ -5,7 +5,7 @@
 #main {
   @include container;
   @include clearfix;
-  margin-top: 1em;
+  margin-top: 2em;
   padding-left: 1em;
   padding-right: 1em;
   animation: intro 0.3s both;
@@ -49,6 +49,8 @@
 }
 
 .page__content {
+  color: #2f3742;
+
   #about-me{
     margin-top: -10em;
       &:before { 
@@ -61,9 +63,22 @@
     }
   }
   h1 {
-    margin-top: 1em;
-    padding-bottom: 0.5em;
-    border-bottom: 1px solid $border-color;
+    margin-top: 1.3em;
+    padding-bottom: 0.45em;
+    color: #1f2f46;
+    border-bottom: 1px solid #dde5ef;
+    letter-spacing: 0;
+  }
+
+  h2 {
+    margin-top: 2em;
+    padding-bottom: 0.35em;
+    color: #1f2f46;
+    border-bottom: 1px solid #dde5ef;
+  }
+
+  h3 {
+    color: #25364d;
   }
 
   p, li, dl {
@@ -84,10 +99,14 @@
   }
 
   a {
+    color: #1f5f99;
     text-decoration: underline;
+    text-decoration-color: rgba(31, 95, 153, 0.25);
+    text-underline-offset: 0.18em;
 
     &:hover {
       text-decoration: underline;
+      text-decoration-color: rgba(31, 95, 153, 0.55);
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
@@ -115,6 +134,147 @@
   blockquote + .small {
     margin-top: -1.5em;
     padding-left: 1.25rem;
+  }
+
+  .intro-panel {
+    margin-bottom: 2em;
+    padding: 1.6em 1.8em;
+    border: 1px solid #dde5ef;
+    border-radius: 6px;
+    background: linear-gradient(135deg, #f7fbff 0%, #ffffff 55%, #f8faf7 100%);
+
+    h1 {
+      margin: 0.15em 0 0.25em;
+      padding: 0;
+      border: 0;
+      font-size: 2.1em;
+      line-height: 1.08;
+    }
+
+    p {
+      max-width: 46rem;
+    }
+  }
+
+  .eyebrow {
+    margin-bottom: 0.35em;
+    color: #64748b;
+    font-size: 0.82em;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .intro-lede {
+    color: #203047;
+    font-size: 1.16em;
+    line-height: 1.55;
+  }
+
+  .quick-stats {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0.75em;
+    margin-top: 1.2em;
+    max-width: 34rem;
+
+    div {
+      padding: 0.75em 0.85em;
+      border: 1px solid #dde5ef;
+      border-radius: 6px;
+      background: rgba(255, 255, 255, 0.78);
+    }
+
+    strong,
+    span {
+      display: block;
+    }
+
+    strong {
+      color: #16324f;
+      font-size: 1.45em;
+      line-height: 1.1;
+    }
+
+    span {
+      margin-top: 0.2em;
+      color: #64748b;
+      font-size: 0.86em;
+    }
+  }
+
+  .focus-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0.9em;
+    margin: 1em 0 0.75em;
+
+    div {
+      padding: 1em;
+      border: 1px solid #dde5ef;
+      border-radius: 6px;
+      background: #fff;
+    }
+
+    h3 {
+      margin-top: 0;
+      font-size: 1em;
+    }
+
+    p {
+      margin-bottom: 0;
+      color: #526171;
+      font-size: 0.95em;
+    }
+  }
+
+  .publication-feature {
+    display: grid;
+    gap: 0.85em;
+    margin-top: 1em;
+
+    p {
+      margin: 0;
+      padding: 1em 1.1em;
+      border-left: 3px solid #2b6f9f;
+      border-radius: 0 6px 6px 0;
+      background: #f8fbfd;
+    }
+
+    span {
+      color: #526171;
+    }
+
+    a {
+      display: inline-block;
+      margin-top: 0.35em;
+      font-weight: 700;
+      text-decoration: none;
+    }
+  }
+
+  .pub-list {
+    padding-left: 1.4em;
+
+    li {
+      margin-bottom: 0.75em;
+      padding-left: 0.15em;
+    }
+  }
+
+  @include breakpoint(max-width $medium) {
+    .intro-panel {
+      padding: 1.15em;
+
+      h1 {
+        font-size: 1.7em;
+      }
+    }
+
+    .quick-stats,
+    .focus-grid {
+      grid-template-columns: 1fr;
+    }
   }
 }
 
